@@ -43,3 +43,12 @@ Aplikasi ini memungkinkan kamu menyimpan akun, username, dan password secara **a
 ```bash
 git clone https://github.com/achmaddwiprasetyo/tugas1_pemograman_bergerak
 cd tugas1_pemograman_bergerak
+
+### 2️⃣ Install Dependency
+```bash
+flutter pub get
+
+### 3️⃣ Jalankan Aplikasi
+```bash
+flutter run
+
