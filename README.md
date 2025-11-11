@@ -1,4 +1,6 @@
-# Tugas 1 Pemograman Bergerak (🔐 Password Management)  
+# Tugas 1 Pemograman Bergerak (🔐 Password Management)
+Nama : Achmad Dwi Prasetyo
+NIM  : 220401010168
 _Aplikasi Manajer Password Lokal dengan Flutter + SQFLite_
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter)
@@ -64,10 +66,10 @@ lib/
 │   └── database_helper.dart      # Inisialisasi dan fungsi CRUD SQLite
 ├── models/
 │   └── password_model.dart       # Model data password
-├── screens/
-│   ├── home.dart            # Halaman utama (tampilan data + pencarian)
-│   ├── add_password.dart    # Halaman tambah data
-│   └── edit_password.dart       # Halaman edit data
+└── screens/
+    ├── home.dart            # Halaman utama (tampilan data + pencarian)
+    ├── add_password.dart    # Halaman tambah data
+    └── edit_password.dart       # Halaman edit data
 ```
 
 
