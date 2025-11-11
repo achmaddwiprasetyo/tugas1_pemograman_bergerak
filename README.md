@@ -9,7 +9,7 @@ _Aplikasi Manajer Password Lokal dengan Flutter + SQFLite_
 ---
 
 ## 📱 Deskripsi
-**Password Vault Pro** adalah aplikasi penyimpanan password berbasis **Flutter** dengan dukungan **SQLite lokal (sqflite & sqflite_common_ffi)**.  
+**Password Management** adalah aplikasi penyimpanan password berbasis **Flutter** dengan dukungan **SQLite lokal (sqflite & sqflite_common_ffi)**.  
 Aplikasi ini memungkinkan kamu menyimpan akun, username, dan password secara **aman & offline**, dengan tampilan **Material 3 modern** dan **dark mode otomatis**.
 
 ---
@@ -41,5 +41,5 @@ Aplikasi ini memungkinkan kamu menyimpan akun, username, dan password secara **a
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/username/password-vault-pro.git
-cd password-vault-pro
+git clone https://github.com/achmaddwiprasetyo/tugas1_pemograman_bergerak
+cd tugas1_pemograman_bergerak
