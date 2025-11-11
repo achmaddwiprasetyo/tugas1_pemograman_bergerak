@@ -79,9 +79,9 @@ lib/
 
 ---
 
-⚖️ Lisensi
+### ⚖️ Lisensi
 
-### MIT License © 2025
+MIT License © 2025
 Created by Achmad Dwi Prasetyo - 220401010168
 
 
