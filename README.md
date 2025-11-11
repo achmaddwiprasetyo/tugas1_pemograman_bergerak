@@ -60,19 +60,14 @@ flutter run
 ```bash
 lib/
 ├── main.dart                     # Entry point aplikasi
-├── db/
+├── database/
 │   └── database_helper.dart      # Inisialisasi dan fungsi CRUD SQLite
 ├── models/
 │   └── password_model.dart       # Model data password
 ├── screens/
-│   ├── home_page.dart            # Halaman utama (tampilan data + pencarian)
-│   ├── add_password_page.dart    # Halaman tambah data
-│   ├── edit_password_page.dart   # Halaman edit data
-│   └── password_detail_page.dart # (Opsional) Detail data password
-├── themes/
-│   └── app_theme.dart            # Tema Material 3 dan mode gelap otomatis
-└── widgets/
-    └── password_card.dart        # Widget kartu tampilan password
+│   ├── home.dart            # Halaman utama (tampilan data + pencarian)
+│   ├── add_password.dart    # Halaman tambah data
+│   └── edit_password.dart       # Halaman edit data
 ```
 
 
