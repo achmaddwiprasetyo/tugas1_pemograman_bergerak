@@ -1,6 +1,4 @@
 # Tugas 1 Pemograman Bergerak (🔐 Password Management)
-Nama : Achmad Dwi Prasetyo
-NIM  : 220401010168
 _Aplikasi Manajer Password Lokal dengan Flutter + SQFLite_
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter)
@@ -72,5 +70,18 @@ lib/
     └── edit_password.dart       # Halaman edit data
 ```
 
+---
+
+### 💡 Pengembang
+
+👤 Achmad Dwi Prasetyo
+🎓 Universitas Siber Asia - S1 PJJ Informatika 2026
+
+---
+
+⚖️ Lisensi
+
+### MIT License © 2025
+Created by Achmad Dwi Prasetyo - 220401010168
 
 
