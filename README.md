@@ -1,16 +1,45 @@
-# tugas1pb
+# Tugas 1 Pemograman Bergerak (🔐 Password Management)  
+_Aplikasi Manajer Password Lokal dengan Flutter + SQFLite_
 
-A new Flutter project.
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Linux%20%7C%20Windows-lightgrey)
+![SQLite](https://img.shields.io/badge/Database-SQFLite-blueviolet)
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Deskripsi
+**Password Vault Pro** adalah aplikasi penyimpanan password berbasis **Flutter** dengan dukungan **SQLite lokal (sqflite & sqflite_common_ffi)**.  
+Aplikasi ini memungkinkan kamu menyimpan akun, username, dan password secara **aman & offline**, dengan tampilan **Material 3 modern** dan **dark mode otomatis**.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Fitur Utama
+✅ CRUD Lengkap (Tambah, Tampilkan, Ubah, Hapus)  
+✅ SQLite Lokal (offline, cepat, aman)  
+✅ Realtime Search (pencarian langsung)  
+✅ Kategori akun (Email, Sosial, Bank, Game, Lainnya)  
+✅ Material 3 UI + Grid Responsif  
+✅ Dark Mode Otomatis  
+✅ Footer dengan Copyright  
+✅ Kompatibel di **Android, Linux, Windows, macOS**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🏗️ Teknologi yang Digunakan
+| Komponen | Teknologi |
+|-----------|------------|
+| Framework | [Flutter](https://flutter.dev) |
+| Database | [SQFLite](https://pub.dev/packages/sqflite), [SQFLite Common FFI](https://pub.dev/packages/sqflite_common_ffi) |
+| Bahasa | Dart |
+| UI | Material Design 3 |
+| IDE | VSCode / Android Studio |
+
+---
+
+## 🚀 Cara Menjalankan Project
+
+### 1️⃣ Clone Repository
+```bash
+git clone https://github.com/username/password-vault-pro.git
+cd password-vault-pro
