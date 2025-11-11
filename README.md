@@ -55,17 +55,24 @@ flutter pub get
 flutter run
 ```
 
+### 📁 Struktur Folder
+
+```bash
 lib/
-│
-├── main.dart
-├── database/
-│   └── database_helper.dart
+├── main.dart                     # Entry point aplikasi
+├── db/
+│   └── database_helper.dart      # Inisialisasi dan fungsi CRUD SQLite
 ├── models/
-│   └── password_model.dart
-└── screens/
-    ├── home_page.dart
-    ├── add_password_page.dart
-    └── edit_password_page.dart
+│   └── password_model.dart       # Model data password
+├── screens/
+│   ├── home_page.dart            # Halaman utama (tampilan data + pencarian)
+│   ├── add_password_page.dart    # Halaman tambah data
+│   ├── edit_password_page.dart   # Halaman edit data
+│   └── password_detail_page.dart # (Opsional) Detail data password
+├── themes/
+│   └── app_theme.dart            # Tema Material 3 dan mode gelap otomatis
+└── widgets/
+    └── password_card.dart        # Widget kartu tampilan password
 
 
 
