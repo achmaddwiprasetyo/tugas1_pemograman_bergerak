@@ -74,14 +74,14 @@ lib/
 
 ### 💡 Pengembang
 
-👤 Achmad Dwi Prasetyo
+👤 Achmad Dwi Prasetyo<br>
 🎓 Universitas Siber Asia - S1 PJJ Informatika 2026
 
 ---
 
 ### ⚖️ Lisensi
 
-MIT License © 2025
+MIT License © 2025<br>
 Created by Achmad Dwi Prasetyo - 220401010168
 
 
