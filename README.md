@@ -1,4 +1,5 @@
-# Tugas 1 Pemograman Bergerak (🔐 Password Management)
+# Tugas 1 Pemograman Bergerak 
+## 🔐 Password Management
 _Aplikasi Manajer Password Lokal dengan Flutter + SQFLite_
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter)
